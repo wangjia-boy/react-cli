@@ -22,7 +22,7 @@
     "build"
   ],
   "include": [
-    "src/**/*"
+    "./src/**/*"
   ],
   "typeAcquisition": {
     "exclude": [

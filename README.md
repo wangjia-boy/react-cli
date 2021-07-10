@@ -1,29 +1,13 @@
-# craco-react
+### 本版本指定依赖包版本
 
-使用craco配置的react快速开发模版
+webpack@4.41.5
 
-craco+react+antd+less+axios
+webpack-cli@3.3.10
 
-### 预处理器
+html-webpack-plugin@4.5.2
 
-#### Less
+less-loader@7.3.0
 
-craco-less
+autoprefixer@8.6.5
 
-less
-
-less-loader最高版本为7.3.0
-
-#### Sass
-
-craco-sass-resources-loader
-
-node-sass最高版本为5.0.0
-
-#### Stylus
-
-craco-stylus-loader
-
-stylus
-
-stylus-loader最高版本为3.0.2
+postcss-loader@3.0.0
